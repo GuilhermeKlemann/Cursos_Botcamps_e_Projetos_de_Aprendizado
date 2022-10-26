@@ -1,0 +1,34 @@
+{
+  "Music": [
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Letrux"},
+                "SongTitle": {"S": "Flerte Revival"},
+                "AlbumTitle": {"S": "Letrux em Noite de Climão"},
+                "SongYear": {"S": "2017"}
+              }
+          }
+      },
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Letrux"},
+                "SongTitle": {"S": "Cuidado Paixão"},
+                "AlbumTitle": {"S": "Letrux Aos Prantos"},
+                "SongYear": {"S": "2020"}
+              }
+          }
+      },
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Letrux"},
+                "SongTitle": {"S": "Hypnotized"},
+                "AlbumTitle": {"S": "Letrux em Noite de Climão"},
+                "SongYear": {"S": "2017"}
+              }
+          }
+      }
+    ]
+}
