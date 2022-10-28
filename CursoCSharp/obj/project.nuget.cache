@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eqkmuss6U9wgXYc2jV7dKwMGmDNS/Ir+D3V9T90Vj8zQIXSajOprQKLVUYTmQXwRzZPHaW00tV+QZNPUvuX0qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.5\\microsoft.netcore.platforms.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
